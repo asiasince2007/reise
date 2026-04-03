@@ -39,7 +39,7 @@ Gesamtstrecke: ~2.330 km | Kraftstoffbedarf: ~233 L
 
 ### Tag 1 — Sonntag, 05.04. | Langenfeld – Innsbruck
 
-**773 km | Anreise mit Stopps in Karlsruhe & München**
+**773 km** | **Anreise mit Stopps in Karlsruhe & München**
 
 Ostersonntag ist laut ADAC der ruhigste Tag des Osterwochenendes. LKW-Fahrverbot in Kraft.
 
