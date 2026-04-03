@@ -63,7 +63,7 @@ Ostersonntag ist laut ADAC der ruhigste Tag des Osterwochenendes. LKW-Fahrverbot
 
 ### Tag 2 — Montag, 06.04. | Innsbruck – Bardolino
 
-**253 km | Altstadt Innsbruck & Weiterreise an den Gardasee**
+**253 km** | **Altstadt Innsbruck & Weiterreise an den Gardasee**
 
 Ostermontag: Starker Rückreiseverkehr Richtung Norden ab Mittag — ihr fahrt Richtung Süden (Gegenrichtung). Luegbrücke ist während der Osterferien zweispurig für PKW befahrbar.
 
@@ -120,7 +120,7 @@ Ostermontag: Starker Rückreiseverkehr Richtung Norden ab Mittag — ihr fahrt R
 
 ### Tag 4 — Mittwoch, 08.04. | Tagesausflug Venedig
 
-**150 km einfach | Maut ~11 EUR | Kein Venedig-Eintritt am Mittwoch!**
+**150 km einfach** | **Maut ~11 EUR | Kein Venedig-Eintritt am Mittwoch!**
 
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
@@ -144,7 +144,7 @@ Tipps Venedig: Powerbank mitnehmen. Schultern und Knie in Kirchen bedecken. Kost
 
 ### Tag 5 — Donnerstag, 09.04. | Rückreise Bardolino – Langenfeld
 
-**~1.005 km | Die grosse Rückreisewelle (Mo/Di) ist vorbei. Moderates Verkehrsaufkommen erwartet.**
+**~1.005 km** | **Die grosse Rückreisewelle (Mo/Di) ist vorbei. Moderates Verkehrsaufkommen erwartet.**
 
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
