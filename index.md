@@ -89,7 +89,8 @@ Ostermontag: Starker Rückreiseverkehr Richtung Norden ab Mittag — ihr fahrt R
 
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
-| 08:30 – 09:30   | Frühstück im Hotel                                           |
+| 08:30 – 09:15   | Frühstück im Hotel                                           |
+| 09:15 – 09:45   | Fertig machen & losgehen                                     |
 | 09:45 – 10:25   | Spaziergang zum Fährhafen Bardolino                          |
 | 10:25 – 11:41   | Fähre Bardolino – Sirmione                                   |
 
@@ -124,19 +125,19 @@ Ostermontag: Starker Rückreiseverkehr Richtung Norden ab Mittag — ihr fahrt R
 
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
-| 08:00 – 09:00   | Frühstück im Hotel                                           |
-| 09:00 – 10:43   | Fahrt Bardolino – Tronchetto Parking (150 km, 1 h 43 min)   |
-| 10:43 – 11:00   | Einparken (Tronchetto Parking, ~30 EUR/Tag)                  |
-| 11:00 – 11:45   | Transfer: People Mover – Piazzale Roma, dann Vaporetto Linie 2 bis Rialto (Kinder unter 6 J. gratis) |
-| 11:45 – 12:15   | Rialtobrücke (Fotostopp)                                     |
-| 12:15 – 14:00   | Mittagessen (Tipp: Trattoria alla Madonna oder Ae Oche)      |
-| 14:00 – 15:30   | Markusplatz, Markusdom & Campanile (Aufzug nutzen!)          |
-| 15:30 – 16:15   | Kanalüberquerung per Traghetto (~2 EUR statt 90 EUR Gondel), Gelato, Weg zur Haltestelle |
-| 16:15 – 16:50   | Rückfahrt mit Vaporetto Linie 2 zum Tronchetto               |
-| 16:50 – 17:00   | Auto holen & Ausfahrt                                        |
-| 17:00 – 18:43   | Rückfahrt Venedig – Bardolino (150 km, 1 h 43 min)          |
-| 18:43 – 19:15   | Kurze Pause & frisch machen                                  |
-| 19:15 – 21:30   | Abendessen in Bardolino                                      |
+| 08:30 – 09:15   | Frühstück im Hotel                                           |
+| 09:15 – 10:58   | Fahrt Bardolino – Tronchetto Parking (150 km, 1 h 43 min)   |
+| 10:58 – 11:15   | Einparken (Tronchetto Parking, ~30 EUR/Tag)                  |
+| 11:15 – 12:00   | Transfer: People Mover – Piazzale Roma, dann Vaporetto Linie 2 bis Rialto (Kinder unter 6 J. gratis) |
+| 12:00 – 12:30   | Rialtobrücke (Fotostopp)                                     |
+| 12:30 – 14:15   | Mittagessen (Tipp: Trattoria alla Madonna oder Ae Oche)      |
+| 14:15 – 15:45   | Markusplatz, Markusdom & Campanile (Aufzug nutzen!)          |
+| 15:45 – 16:30   | Kanalüberquerung per Traghetto (~2 EUR statt 90 EUR Gondel), Gelato, Weg zur Haltestelle |
+| 16:30 – 17:05   | Rückfahrt mit Vaporetto Linie 2 zum Tronchetto               |
+| 17:05 – 17:15   | Auto holen & Ausfahrt                                        |
+| 17:15 – 18:58   | Rückfahrt Venedig – Bardolino (150 km, 1 h 43 min)          |
+| 18:58 – 19:30   | Kurze Pause & frisch machen                                  |
+| 19:30 – 21:30   | Abendessen in Bardolino                                      |
 
 Tipps Venedig: Powerbank mitnehmen. Schultern und Knie in Kirchen bedecken. Kostenloses Wasser an "Nasoni"-Brunnen zapfen.
 
@@ -146,9 +147,11 @@ Tipps Venedig: Powerbank mitnehmen. Schultern und Knie in Kirchen bedecken. Kost
 
 **~1.005 km** | **Die grosse Rückreisewelle (Mo/Di) ist vorbei. Moderates Verkehrsaufkommen erwartet.**
 
+Hotelfrühstück startet erst um 08:30 — zu spät für die geplante Abfahrt. Am Vorabend Proviant besorgen (Bäckerei/Supermarkt in Bardolino) oder beim ersten Tankstop frühstücken.
+
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
-| 06:30 – 07:00   | Frühstück                                                    |
+| 06:30 – 07:00   | Aufstehen, Proviant-Frühstück im Zimmer                     |
 | 07:00 – 07:15   | Checkout & Auto beladen                                      |
 | **07:15**       | **Volltanken in Bardolino & Abfahrt**                        |
 |                 | *Luegbrücke A13: Am Donnerstag evtl. wieder einspurig — aktuelle Lage auf asfinag.at prüfen.* |
