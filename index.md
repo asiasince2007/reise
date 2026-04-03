@@ -47,9 +47,9 @@ Ostersonntag ist laut ADAC der ruhigste Tag des Osterwochenendes. LKW-Fahrverbot
 | --------------- | ------------------------------------------------------------ |
 | **03:30**       | **Abfahrt Langenfeld** — Volltanken & Start                 |
 | 03:30 – 06:43   | Fahrt Langenfeld – Karlsruhe, Stop 1 (321 km, 3 h 13 min)  |
-| 06:43 – 06:53   | Kurzer Halt: Mitfahrer aufnehmen                             |
-| 06:53 – 07:10   | Fahrt zum zweiten Karlsruher Treffpunkt (9 km, 17 min)      |
-| 07:10 – 07:30   | Frühstück/Snack & Mitfahrer aufnehmen                        |
+| 06:43 – 07:03   | Frühstück/Snack                                             |
+| 07:03 – 07:20   | Fahrt zum zweiten Karlsruher Treffpunkt (9 km, 17 min)      |
+| 07:20 – 07:30   | Mitfahrer aufnehmen                                          |
 |                 | *Gesamte Standzeit Karlsruhe: 30 min*                        |
 | 07:30 – 10:51   | Fahrt Karlsruhe – München (291 km, 3 h 21 min)              |
 | 10:51 – 11:21   | Pause München: Mitfahrer aufnehmen & Essen (30 min)         |
