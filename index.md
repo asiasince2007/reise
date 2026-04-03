@@ -121,7 +121,7 @@ Ostermontag: Starker Rückreiseverkehr Richtung Norden ab Mittag — ihr fahrt R
 
 ### Tag 4 — Mittwoch, 08.04. | Tagesausflug Venedig
 
-**150 km einfach** | **Maut ~11 EUR | Kein Venedig-Eintritt am Mittwoch!**
+**150 km einfach** | **Maut ~11 EUR** | **Kein Venedig-Eintritt am Mittwoch!**
 
 | Uhrzeit         | Aktivität                                                    |
 | --------------- | ------------------------------------------------------------ |
